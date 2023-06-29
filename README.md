@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/chandan99342/Chandan-Singh-Kushwaha/blob/main/CHANDAN%20SINGH%20(1).png?raw=true)]
+[![MasterHead](https://github.com/chandan99342/Chandan-Singh-Kushwaha/blob/main/chandan.jpg?raw=true)]
 <h1 align="center">Hi 👋, I'm Chandan Singh Kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
